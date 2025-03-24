@@ -1,0 +1,1 @@
+This project identifies and classifies speakers based on their voice samples. It utilizes MFCC (Mel-Frequency Cepstral Coefficients) features for speech signal processing and Mahalanobis Distance to calculate the similarity between different voice samples.
